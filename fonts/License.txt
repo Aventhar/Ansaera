@@ -1,0 +1,87 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4023461, 2021-03-05T17:50:40-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: TestamentII by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/ii-regular/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: TestamentIIIMedium by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/iii-medium/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: TestamentIIMedium by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/ii-medium/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: TestamentIII-Bold by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/iii-bold/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: TestamentII-Bold by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/ii-bold/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: TestamentI-Bold by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/i-bold/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: TestamentIII by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/iii-regular/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: TestamentI by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/i-regular/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: TestamentIMedium by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/testament/i-medium/
+ * Copyright: Copyright &amp;#x00A9; 2010 Philip Bouwsma &amp;amp; Canada Type. All rights reserved.
+ * 
+ * Webfont: BouwsmaText-Italic by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/bouwsma-text/italic/
+ * Copyright: Copyright 2008 &amp;#x00A9; Philip Bouwsma. Published by Canada Type. All rights reserved.
+ * 
+ * Webfont: BouwsmaTextSemiBold-Italic by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/bouwsma-text/semi-bold-italic/
+ * Copyright: Copyright 2008 &amp;#x00A9; Philip Bouwsma. Published by Canada Type. All rights reserved.
+ * 
+ * Webfont: BouwsmaText by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/bouwsma-text/regular/
+ * Copyright: Copyright 2008 &amp;#x00A9; Philip Bouwsma. Published by Canada Type. All rights reserved.
+ * 
+ * Webfont: BouwsmaTextMedium-Italic by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/bouwsma-text/medium-italic/
+ * Copyright: Copyright 2008 &amp;#x00A9; Philip Bouwsma. Published by Canada Type. All rights reserved.
+ * 
+ * Webfont: BouwsmaText-Bold by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/bouwsma-text/bold/
+ * Copyright: Copyright 2008 &amp;#x00A9; Philip Bouwsma. Published by Canada Type. All rights reserved.
+ * 
+ * Webfont: BouwsmaText-BoldItalic by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/bouwsma-text/bold-italic/
+ * Copyright: Copyright 2008 &amp;#x00A9; Philip Bouwsma. Published by Canada Type. All rights reserved.
+ * 
+ * Webfont: BouwsmaTextSemiBold by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/bouwsma-text/semi-bold/
+ * Copyright: Copyright 2008 &amp;#x00A9; Philip Bouwsma. Published by Canada Type. All rights reserved.
+ * 
+ * Webfont: BouwsmaTextMedium by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/bouwsma-text/medium/
+ * Copyright: Copyright 2008 &amp;#x00A9; Philip Bouwsma. Published by Canada Type. All rights reserved.
+ * 
+ * Webfont: Luminari by Canada Type
+ * URL: https://www.myfonts.com/fonts/canadatype/luminari/regular/
+ * Copyright: Copyright &amp;#x00A9; 2008-2017 Canada Type. Designed by Philip Bouwsma and Patrick Griffin. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
